@@ -15,21 +15,18 @@ int main()
 
 	printf("Hello, world!\n\n"); 
 	printf("С Новым годом!\n");
-/*
-	ch = getchar();	putchar(ch);
-	ch = getchar();	putchar(ch);
-	ch = getchar();	putchar(ch);
-	ch = getchar();	putchar(ch);
-	ch = getchar();	putchar(ch);
-*/
-/*
-	ch = 15;
+
+	// ch = getchar();	putchar(ch);
+	 
+
+
+	ch = 115;
 	printf("%d\t%u\t%#o\t%#x\t%#X\n",ch,ch,ch,ch,ch);
-	ch = 16;
+	ch = 116;
 	printf("%d\t%u\t%#o\t%#x\t%#X\n",ch,ch,ch,ch,ch);
-	ch = -1;
+	ch = -11;
 	printf("%d\t%u\t%#o\t%#x\t%#X\n",ch,ch,ch,ch,ch);
-*/
+
 
 	d = 123.456789;
 	printf("%20f %20e %20g\n",d,d,d);
